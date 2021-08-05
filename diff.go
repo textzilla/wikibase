@@ -1,5 +1,5 @@
 package wikibase
 
 func Lines() int {
-	return 0
+    return 0
 }
